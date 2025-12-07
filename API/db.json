@@ -1,0 +1,67 @@
+{
+  "categorias": [
+    { "id": "1", "nome": "Broches", "ativa": true },
+    { "id": "4", "nome": "DayOff", "ativa": false },
+    { "id": "5", "nome": "Inativos", "ativa": true },
+    { "id": "6", "nome": "teste123", "ativa": true },
+    { "id": 7, "nome": "Broches'123", "ativa": true }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "Richard Vieira da Rocha",
+      "descricao": "123123",
+      "preco": 10,
+      "categoria": "teste123",
+      "imagem": "blob:http://localhost:3000/e8e254ed-debb-4142-9b44-860fb4315931",
+      "ativo": true
+    },
+    {
+      "id": "2",
+      "titulo": "Broche Especialista",
+      "descricao": "123",
+      "preco": 10,
+      "categoria": "DayOff",
+      "imagem": "blob:http://localhost:3000/0bdb7794-c6e0-4e36-bf2d-d353fa0a7327",
+      "ativo": true
+    },
+    {
+      "id": "1",
+      "imagem": "blob:http://localhost:3000/87f8199f-8cc6-4f05-8e98-61a07cf02919",
+      "titulo": "Richard Vieira da Rocha",
+      "descricao": "123",
+      "preco": 10,
+      "categoria": "Broches",
+      "ativo": true
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "login": "admin",
+      "senha": "123",
+      "perfil": "ADM",
+      "nome": "Super Admin",
+      "saldo": 2727,
+      "brochesResgatados": []
+    },
+    {
+      "id": "2",
+      "login": "user",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Colaborador",
+      "saldo": 50,
+      "brochesResgatados": []
+    }
+  ],
+  "auditoria": [
+    {
+      "id": "c96a",
+      "data": "07/12/2025, 12:49:41",
+      "usuario": "Super Admin",
+      "acao": "Criação",
+      "detalhes": "Produto \"Richard Vieira da Rocha\" criado."
+    }
+  ]
+}
