@@ -25,6 +25,51 @@
       "nome": "Colaborador",
       "saldo": 5000,
       "brochesResgatados": []
+    },
+    {
+      "id": "3",
+      "login": "camile",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Camile",
+      "saldo": 100,
+      "brochesResgatados": []
+    },
+    {
+      "id": "4",
+      "login": "henrique",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Henrique",
+      "saldo": 100,
+      "brochesResgatados": []
+    },
+    {
+      "id": "5",
+      "login": "lais",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Lais",
+      "saldo": 100,
+      "brochesResgatados": []
+    },
+    {
+      "id": "6",
+      "login": "pedro",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Pedro",
+      "saldo": 100,
+      "brochesResgatados": []
+    },
+    {
+      "id": "7",
+      "login": "camila",
+      "senha": "123",
+      "perfil": "USER",
+      "nome": "Camila",
+      "saldo": 100,
+      "brochesResgatados": []
     }
   ],
   "auditoria": []
