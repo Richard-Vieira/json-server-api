@@ -14,7 +14,7 @@
       "senha": "123",
       "perfil": "ADM",
       "nome": "Super Admin",
-      "saldo": 0,
+      "saldo": 5000,
       "brochesResgatados": []
     },
     {
@@ -23,7 +23,7 @@
       "senha": "123",
       "perfil": "USER",
       "nome": "Colaborador",
-      "saldo": 0,
+      "saldo": 5000,
       "brochesResgatados": []
     }
   ],
