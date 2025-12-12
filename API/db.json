@@ -26,7 +26,7 @@
       "senha": "123",
       "perfil": "USER",
       "nome": "Pedro",
-      "saldo": 1000,
+      "saldo": 100,
       "brochesResgatados": []
     },
     {
@@ -35,7 +35,7 @@
       "senha": "123",
       "perfil": "USER",
       "nome": "Laís",
-      "saldo": 1000,
+      "saldo": 150,
       "brochesResgatados": []
     }
   ],
