@@ -10,33 +10,6 @@
       "nome": "Super Admin",
       "saldo": 9999,
       "brochesResgatados": []
-    },
-    {
-      "id": "2",
-      "login": "user",
-      "senha": "123",
-      "perfil": "USER",
-      "nome": "Usuário Padrão",
-      "saldo": 50,
-      "brochesResgatados": []
-    },
-    {
-      "id": "3",
-      "login": "pedro",
-      "senha": "123",
-      "perfil": "USER",
-      "nome": "Pedro",
-      "saldo": 100,
-      "brochesResgatados": []
-    },
-    {
-      "id": "4",
-      "login": "lais",
-      "senha": "123",
-      "perfil": "USER",
-      "nome": "Laís",
-      "saldo": 150,
-      "brochesResgatados": []
     }
   ],
   "auditoria": []
